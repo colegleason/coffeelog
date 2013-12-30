@@ -1,7 +1,7 @@
 ---
 layout: drinking
 title: Cappucino - Fresh Market Espresso Blend
-img: /images/2013-12-30-cappucino.jpg
+img: /images/posts/2013-12-30-cappucino.jpg
 date: 2013-12-30 12:30:00
 info:
 - Coffee: Fresh Market Espresso Blend
@@ -12,7 +12,6 @@ info:
 - Pre-Infuse Time: 2
 - Wait Time: 4
 - Pull Time: 30
-- time: 12:30pm
 ---
 
 I should measure the actual output next time to make sure I'm getting

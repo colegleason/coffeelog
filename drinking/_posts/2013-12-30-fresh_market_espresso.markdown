@@ -1,21 +1,21 @@
 ---
 layout: drinking
-title: Cappucino - Fresh Market Espresso Blend
-img: /images/2013-12-30-cappucino.jpg
-date: 2013-12-30 12:30:00
+title: Espresso - Fresh Market Espresso Blend
+img: /images/posts/2013-12-30-espresso.jpg
+date: 2013-12-30 16:45
 info:
 - Coffee: Fresh Market Espresso Blend
-- Drink Type: Cappucino
+- Drink Type: Espresso
 - Brew Method: Double Espresso
-- Dose: 18.5g
+- Dose: 17g
 - Grind Size: 1.9
 - Pre-Infuse Time: 2
 - Wait Time: 4
 - Pull Time: 30
 ---
 
-I should measure the actual output next time to make sure I'm getting
-two ounces. Also, I think my foam could be more dry, but it isn't bad.
+Looks to be a bit under the 2oz mark on the glass. It could also use
+more crema. I would change up the grind or brew time, but that
+finished the bag!
 
-I'm almost at the end of this bag, but my espresso from Thirty-Thirty
-is suppossed to arrive today, so I'll most likely try to dial that in next.
+This one is strong.

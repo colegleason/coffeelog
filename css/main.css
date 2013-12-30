@@ -168,12 +168,12 @@ ul.posts span {
     float: right;
     display: block;
     margin-left: 15px;
-    height: 300px;
+    max-width: 300px;
+    max-height: 300px;
     overflow: hidden;
     border: 2px solid #000;
 }
 
 #post .postimg img {
-    display: block;
-    max-width: 300px;
+    max-height: 100%;
 }
