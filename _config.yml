@@ -1,6 +1,6 @@
 name: Cole's Coffeelog
 pygments: true
-exclude: ["sync.sh"]
+exclude: ["sync.sh", "README.md"]
 mini_magick:
     thumbnail:
         source: images/original
