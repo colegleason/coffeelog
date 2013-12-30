@@ -1,0 +1,3 @@
+name: Cole's Coffeelog
+pygments: true
+exclude: ["sync.sh"]

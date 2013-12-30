@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h2>Drinking: {{ page.title}}</h2>
+<p class="meta">{{ page.date | date: "%d %B %Y -- %H:%M%p" }}
+<div id="post">
+{% if page.img %}
+<div class="postimg"><img src="{{ page.img }}" /></div>
+{% endif %}
+<h3>Info:</h3>
+<ul>
+{% for data in page.info %}
+{% for hash in data %}
+<li><b>{{ hash[0] }}:</b> {{ hash[1] }}</li>
+{% endfor %}
+{% endfor %}
+</ul>
+<br />
+<hr />
+<h3>Comments:</h3>
+{{ content }}
+</div>
