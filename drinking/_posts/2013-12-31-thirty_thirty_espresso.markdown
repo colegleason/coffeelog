@@ -28,3 +28,6 @@ for longer however.
 While I believe I am making a cappucino based on relative volume of
 microfoam to steamed milk, I need to investigate this. Also, latte art
 to impress the ladies.
+
+Easily best espresso drink I've made yet. It's awesome (although not
+really a surprise) what quality beans do to your drink!
