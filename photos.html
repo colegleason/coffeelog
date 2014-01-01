@@ -5,8 +5,6 @@ title: Cole's Coffeelog -- Photos
 
 <div id="gallery">
   <h1>Photos</h1>
-</div>
-<div id="images">
   {% for post in site.posts %}
   {% if post.img %}
   <img src="{{ post.img }}" />
@@ -15,17 +13,14 @@ title: Cole's Coffeelog -- Photos
 </div>
 
 <script type="text/javascript">
-  $(document).ready(function() {
-  var images = $("#images img");
+  var images = $("#gallery img");
   var length = images.length;
   var loaded = 0;
   images.each(function () {
   $(this).bind('load', function () {
   if ((++loaded) === length) {
-  var container = $("#gallery").partitionGallery(images);
+  $("#gallery").partitionGallery(images);
   }
   });
-  });
-
   });
 </script>
