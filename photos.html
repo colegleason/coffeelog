@@ -6,8 +6,10 @@ title: Cole's Coffeelog -- Photos
 <div id="gallery">
   <h1>Photos</h1>
   {% for post in site.posts %}
-  {% if post.img %}
-  <img src="{{ post.img }}" />
+  {% if post.media %}
+  {% for image in post.media %}
+  <img src="{{ image }}" />
+  {% endfor %}
   {% endif %}
   {% endfor %}
 </div>

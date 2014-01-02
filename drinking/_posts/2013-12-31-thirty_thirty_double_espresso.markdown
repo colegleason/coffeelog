@@ -1,7 +1,8 @@
 ---
 layout: drinking
 title: Espresso - Thirty-Thirty Big Papua Espresso
-img: /images/posts/2013-12-31-espresso.jpg
+media:
+- /images/posts/2013-12-31-espresso.jpg
 date: 2013-12-31 10:30
 info:
 - Coffee: Thirty-Thirty Big Papua Espresso

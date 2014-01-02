@@ -1,7 +1,8 @@
 ---
 layout: drinking
 title: Cappucino - Fresh Market Espresso Blend
-img: /images/posts/2013-12-30-cappucino.jpg
+media:
+- /images/posts/2013-12-30-cappucino.jpg
 date: 2013-12-30 12:30:00
 info:
 - Coffee: Fresh Market Espresso Blend

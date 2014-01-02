@@ -1,7 +1,10 @@
 ---
 layout: drinking
 title: Cappucino - Thirty-Thirty Big Papua Espresso
-img: /images/posts/2013-12-31-cappucino.jpg
+media:
+- /images/posts/2013-12-31-puck.jpg
+- /images/posts/2013-12-31-shot.jpg
+- /images/posts/2013-12-31-cappucino.jpg
 date: 2013-12-31 8:45
 info:
 - Coffee: Thirty-Thirty Big Papua Espresso

@@ -1,7 +1,8 @@
 ---
 layout: drinking
 title: Espresso - Fresh Market Espresso Blend
-img: /images/posts/2013-12-30-espresso.jpg
+media:
+- /images/posts/2013-12-30-espresso.jpg
 date: 2013-12-30 16:45
 info:
 - Coffee: Fresh Market Espresso Blend
