@@ -11,7 +11,7 @@ info:
 - Drink Type: Cup of Coffee
 - Brew Method: French Press
 - Dose: 58.5g
-- Water: 1000mL
+- Water: 857.5mL
 - Brew Time: 3:00
 ---
 Used the french press to make a few cups of coffee for the family to
