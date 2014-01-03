@@ -1,0 +1,19 @@
+---
+layout: drinking
+title: Latte - Thirty-Thirty Big Papua Espresso
+media:
+- /images/posts/2014-01-02-latte.jpg
+- /images/posts/2014-01-02-latte2.jpg
+date: 2014-01-02 20:00
+info:
+- Coffee: Thirty-Thirty Big Papua Espresso
+- Drink Type: Latte
+- Brew Method: Double Espresso
+- Dose: 19g
+- Grind Size: 1.8
+- Pre-Infuse Time: 2
+- Wait Time: 4
+- Pull Time: 26
+---
+I think I like cappucinos better than lattes. I want more foam in my
+-drink, you know? Also, latte art is hard.
