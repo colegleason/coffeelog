@@ -1,0 +1,15 @@
+---
+layout: drinking
+title: Pour Over - Four Barrel Arabica
+date: 2014-01-03 10:00
+info:
+- Coffee: Four Barrel Arabica
+- Drink Type: Cup of Coffee
+- Brew Method: Pour Over
+- Dose: 19g
+- Water: 330mL
+- Brew Time: 3:30
+---
+
+Need to find a better grind method and practice the pour over a bit
+better. Tasted pretty good for beans that are pretty stale though.

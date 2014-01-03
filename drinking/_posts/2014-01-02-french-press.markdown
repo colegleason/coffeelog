@@ -1,9 +1,9 @@
 ---
 layout: drinking
-title: French Press - Modest Coffee Kochere/Yirga Cheffe/Ethiopia
+title: French Press - Four Barrel Arabica
 date: 2014-01-02 18:00
 info:
-- Coffee: Modest Coffee Kochere/Yirga Cheffe/Ethiopia
+- Coffee: Four Barrel Arabica
 - Drink Type: Cup of Coffee
 - Brew Method: French Press
 - Dose: 21g
