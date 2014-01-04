@@ -1,0 +1,28 @@
+---
+layout: drinking
+title: Espresso - Papa Nicholas Italian Espresso
+media:
+- /images/posts/2014-01-04-shot.jpg
+date: 2014-01-04 13:30
+info:
+- Coffee: Papa Nicholas Italian Espresso
+- Drink Type: Espresso
+- Brew Method: Double Espresso
+- Dose: 18g
+- Grind Size: 1.9
+- Pre-Infuse Time: 2
+- Wait Time: 4
+- Pull Time: 37
+---
+
+Well, I'm out of that fancy bag of Thirty-Thirty I liked. Time to
+crack open the fanciest stuff they have on the shelves at Target! This
+was actually the same coffee I used to callibrate my Mazzer Mini, so I
+knew what grind setting to put it at.
+
+You know what's upsetting though? I feel like I can pull a better shot
+(by sight, not taste) than I can with the good coffee. This shot was
+just immediately perfect, while my experience with Thirty-Thirty took
+forever.
+
+Dunno.
