@@ -1,0 +1,21 @@
+---
+layout: drinking
+title: Pour Over - Four Barrel Ethiopia Heirloom Aricha
+date: 2014-01-04 14:30
+media:
+- /images/posts/2014-01-04-pour-over.jpg
+info:
+- Coffee: Four Barrel Ethiopia Heirloom Aricha
+- Drink Type: Cup of Coffee
+- Brew Method: Pour Over
+- Dose: 11g
+- Water: 210mL
+- Brew Time: 2:00
+---
+
+Decided to kill the last of the FB coffee I had by making a half
+cup. Used the thermometer to track the temp and kept it between 180F
+and 195F. It turned out pretty well, although the beans are a bit
+stale.
+
+I may have to order more of these.
